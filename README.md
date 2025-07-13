@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Palak! 👋</h1>
-<h3 align="center">AI Enthusiast | Frontend Developer | Data Analytics Explorer</h3>
-<p align="center">2nd-year BE CSE Student at Chitkara University</p>
+<h3 align="center">AI/ML Enthusiast | Frontend Developer | Data Analytics </h3>
+<p align="center">3rd-year BE CSE Student at Chitkara University</p>
 <hr style="width: 60%; border: 1px solid #4CAF50; margin: 20px auto;">
 
 <div align="center">
@@ -12,6 +12,8 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="50px"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="50px"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="50px"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java" width="50px"/>
+
 
 </div>
 
@@ -23,9 +25,9 @@
 
 ### 🛠 **My Tech Stack:**
 - **Languages & Tools**:
-  - **Programming**: C++, Python  
-  - **Web Development**: HTML, CSS, JavaScript, Bootstrap  
-  - **Data Structures & Algorithms**: DSA in C++  
+  - **Programming**: C++, Python , Java
+  - **Web Development**: HTML, CSS, JavaScript, Bootstrap, Tailwind
+  - **Data Structures & Algorithms**: DSA in Java 
   - **Data Analytics**: Power BI  
   - **Prototyping & Electronics**: TinkerCAD  
 
@@ -36,7 +38,7 @@
   - **Data Analytics** – Extracting insights and solving problems with data.
 
 ### 🎓 **Education:**
-- **2nd Year** Bachelor of Engineering in Computer Science @Chitkara University (2025).
+- **3rd Year** Bachelor of Engineering in Computer Science @Chitkara University (2025).
 
 ### 📚 **Current Focus:**
 - Mastering **React.js** for front-end development.
