@@ -51,7 +51,7 @@ I'm always open to discussing new ideas and collaborating on exciting projects. 
   <a href="https://www.linkedin.com/in/palakwadhwa/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" width="50px"/>
   </a>
-  <a href="https://leetcode.com/problemset/" target="_blank">
+  <a href="[https://leetcode.com/problemset/](https://leetcode.com/profile/)" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="Leetcode" title="Leetcode" width="50px"/>
   </a>
   <a href="mailto:palak3896.beai23@chitkara.edu.in" target="_blank">
