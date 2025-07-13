@@ -10,6 +10,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50px"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="50px"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" width="50px"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="50px"/>
+
 </div>
 
 ### 💡 About Me:
